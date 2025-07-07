@@ -1,9 +1,9 @@
 streamlit
 pandas
-numpy
 folium
-geopy
 requests
+geopy
+numpy
 scikit-learn
 branca
-
+opencage
